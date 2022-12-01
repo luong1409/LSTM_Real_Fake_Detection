@@ -29,3 +29,4 @@ $ python main.py
 ```
 
 ## References
+[TEXT CLASSIFICATION WITH THE TORCHTEXT LIBRARY](https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html)
