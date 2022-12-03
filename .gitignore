@@ -2,4 +2,5 @@
 .vscode
 data/*
 models/*
+__pycache__
 
